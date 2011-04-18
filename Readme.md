@@ -4,7 +4,7 @@ Irssi scripts
 fastswitsch.pl
 --------------
 
-Irssi script for easy window switching.
+Irssi script for easy window switching. 
 fastswitch provides the possibility to switch between your windows 
 and query just by type /<WINDOW_NUMBER> or /<CHANNEL_NAME|QUERYNAME> 
 
