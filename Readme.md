@@ -1,7 +1,7 @@
 Irssi scripts
 =============
 
-fastswitsch.pl
+fastswitch.pl
 --------------
 
 Irssi script for easy window switching.   
